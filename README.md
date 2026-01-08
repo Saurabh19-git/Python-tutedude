@@ -1,4 +1,5 @@
 # Python-tutedude
+Assignment 2
 Added scripts for the following two tasks:
-Task 1: Perform Basic Mathematical Operations
-Task 2: Create a Personalized Greeting
+Task 1: Check if a Number is Even or Odd
+Task 2: Sum of Integers from 1 to 50 Using a Loop
