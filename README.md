@@ -1,8 +1,9 @@
 # Python-tutedude
-Assignment 3
+Assignment 4
 
 Added scripts for the following two tasks:
 
-Task 1: Calculate Factorial Using a Function
+Task 1: Read a File and Handle Errors 
 
-Task 2: Using the Math Module for Calculations
+Task 2: Write and Append Data to a File
+
