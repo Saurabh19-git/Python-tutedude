@@ -1,6 +1,6 @@
 file_name = "output.txt"
 user_input = input("Enter text to write to the file: ")
-with open(file_name,"w") as f:
+with open(file_name,"x") as f:
     f.write(user_input+"\n")
 print(f"Data successfully written to {file_name}.")
 print()
